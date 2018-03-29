@@ -159,3 +159,19 @@ a{
 	margin-top: 1%;
 	width: 4%;
 }
+.generalidades{
+	background: red;
+	color: blue;
+	margin-top: 12%;
+	margin-left: 25%
+	margin-top: 10%;
+	text-align: left;
+	width: 50%;
+}
+.generalidades1{
+	vertical-align: middle;
+	display: inline-block;
+	width: 35%;
+	margin-right: 3%;
+	padding-left: 15%;
+}
