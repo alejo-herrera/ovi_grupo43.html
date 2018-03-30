@@ -175,3 +175,32 @@ a{
 	margin-right: 3%;
 	padding-left: 15%;
 }
+.seguridad{
+	
+	color: red;
+	width: 50%;
+	text-align: center;
+	margin-left: 10%;
+	margin-top: 10%;
+}
+.seg1{
+	background: #045FB4;
+
+}
+.seg2{
+	background: black;
+	color: white;
+	text-align: right;
+
+}
+.seg3{
+	background: yellow;
+	text-align: center;
+}
+.seg4{
+	
+	text-align: center;	
+	width: 125px;
+	height: 125px;
+	margin-left:20%;
+}
