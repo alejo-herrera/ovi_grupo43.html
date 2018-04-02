@@ -8,7 +8,7 @@
 body
 {
 	font-family: Helvatica, Arial;
-	background: white;
+	background: #EFFBF8;
 }
 
 h1
@@ -196,15 +196,11 @@ a{
 	background: yellow;
 	text-align: center;
 }
-.seg4{
-	
+.seg4{	
 	text-align: center;	
 	width: 125px;
 	height: 125px;
 	margin-left:20%;
-}
-.ame{
-	background: #EFFBF8
 }
 .amenazas{
 	margin: 6% 15% 1%;
@@ -235,7 +231,7 @@ a{
 .amenaza5{
 	background: orange;
 	margin: 3% 3% 1% 20%;
-	width: 30%;	
+	width: 30%;		 
 }
 .amenaza6{
 	display: inline-block;
