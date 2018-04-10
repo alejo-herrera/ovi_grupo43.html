@@ -121,12 +121,21 @@ footer{
 a{
 	text-align: center;
 }	
-.multimedia{
-	display: inline-block;
-	width: 560px;
-	height: 315px;
-	margin-left: 28%;
-	margin-top: 3%; 
+.multimedia{	
+	width: 50%;
+	height: 400px;
+	text-align: center;
+	margin: 0% 25% 10% 25%;		
+}
+.multi1{
+	width: 60%;
+	margin: 8% 20% 2% 20%;
+	text-align: center;
+}
+.multi2{
+	width: 60%;
+	margin: 0% 20% 2% 20%;
+	text-align: justify;
 }
 .contador{
 	height: 80px;
@@ -287,7 +296,10 @@ a{
 	text-align: center;
 }
 .obj11{
-	width: 88%;
-	margin: 0% 6% 10% 6%;
-	text-align: justify;
-	
+	width: 80%;	
+	text-align: left;
+	}
+.obj12{
+		margin-bottom: 10%;
+		color:red;		
+	}
