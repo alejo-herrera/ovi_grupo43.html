@@ -81,6 +81,7 @@ ul, ol{
 	background-color:#084B8A;
 	padding: 0px;
 	margin: 0px;
+	border-color: black;
 }
 .nav > li{
 	float: left;
@@ -92,6 +93,7 @@ ul, ol{
 }
 .nav li:hover> ul{
 	display: block;
+
 }
 .nav li ul li{
 	position: relative;
@@ -254,7 +256,7 @@ a{
 }
 .obj5{
 	width: 88%;
-	margin: 0% 6% 0% 6%;
+	margin: 0% 6% 1% 6%;
 	text-align: left;
 }
 .obj6{
@@ -266,9 +268,26 @@ a{
 	display: inline-block;
 	width: 70%;
 	text-align: justify;
+	margin-right: 3%
 }
 .obj8{
 	display: inline-block;	
 	width: 270px;
 	height: 200px;		
 }
+.obj9{
+	width: 88%;
+	margin: 0% 6% 10% 6%;
+	text-align: justify;
+	padding-top: 2%;
+}
+.obj10{	
+	width: 60%;
+	margin: 0% 20% 2% 20%;
+	text-align: center;
+}
+.obj11{
+	width: 88%;
+	margin: 0% 6% 10% 6%;
+	text-align: justify;
+	
